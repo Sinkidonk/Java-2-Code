@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "title": {},
+        "jsp:useBean": {
+            "attributes": {
+                "scope": {},
+                "id": {},
+                "class": {}
+            }
+        }
+    },
+    "attributes": {}
+}

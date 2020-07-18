@@ -1,0 +1,14 @@
+SMAP
+Factorial_jsp.java
+JSP
+*S JSP
+*F
++ 0 Factorial.jsp
+Factorial.jsp
+*L
+5,10:51
+15,4:61,3
+19,2:73
+20,7:10
+26,5:75
+*E
